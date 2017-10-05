@@ -1,0 +1,2 @@
+# BiblioColaborativa
+Um sistema de biblioteca colaborativa para os livros dos professores do Departamento de Sistemas e Computação (DSC), do curso de Ciência da Computação da Universidade Federal de Campina Grande (UFCG), desenvolvido no final do curso de Linguagem de Programação 2 (LP2) utilizando design de Orientação a Objetos (OO), linguagem de programação Java e interface gráfica JetBrains.  Situação: Concluído; Natureza: Desenvolvimento.
